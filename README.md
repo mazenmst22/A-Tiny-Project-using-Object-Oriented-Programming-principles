@@ -1,3 +1,8 @@
+// oop project 1 
+
+
+// A Player status
+
 #include <iostream>
 #include <string>
 #include <vector>
